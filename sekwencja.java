@@ -37,6 +37,7 @@ public class sekwencja {
             }
         } else if (licz4 == 1){
             if (licz5 == 2){
+
                 if (licz6 == 3){
                     System.out.println("Sekwencja jest w liczbach cztery, pięć i sześć");
                 }
